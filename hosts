@@ -16,10 +16,10 @@ Osd5 #10.11.14.145
 mons
 [rgws]
 Rados1 #10.11.14.146
-Rados2 #10.11.14.147
-Rados3 #10.11.14.148
-Rados4 #10.11.14.149
-Rados5 #10.11.14.150
+#Rados2 #10.11.14.147
+#Rados3 #10.11.14.148
+#Rados4 #10.11.14.149
+#Rados5 #10.11.14.150
 
 [grafana-server]
 grafana-server #10.11.14.156
